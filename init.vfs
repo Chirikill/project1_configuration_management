@@ -1,0 +1,6 @@
+# Тестовый стартовый скрипт для VFS Emulator
+ls
+ls $USER
+cd
+cd $HOME
+unknown_command
